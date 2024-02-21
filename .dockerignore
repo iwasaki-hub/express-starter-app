@@ -1,0 +1,10 @@
+# node
+node_modules
+
+# git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
